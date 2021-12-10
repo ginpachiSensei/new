@@ -2,6 +2,7 @@
   "name": "new-backend",
   "version": "1.0.0",
   "description": "backend of new",
+  "type": "module",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon backend/server.js"
